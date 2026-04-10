@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Tengo 29 años.<br>- Joven programador JavaScript Fullstack<br>- Certificado "Programador Javascript FullStack'' con DESAFIO LATAM<br>-Joven autodidacta y altamente creativo.<br>-Me encanta trabajar con Front-End, pero no dejo de lado Back<br>
+- Tengo 30 años.<br>- Joven programador JavaScript Fullstack<br>- Certificado "Programador Javascript FullStack'' con DESAFIO LATAM<br>-Joven autodidacta y altamente creativo.<br>-Me encanta trabajar con Front-End, pero no dejo de lado Back<br>
 
 
 ## 🌐 Socials:
